@@ -1,0 +1,14 @@
+#header
+text=&aDownload Test
+
+#paragraph
+text=&7This page tests GitWeb file downloads.
+
+#download
+file-app=cdm:pixel_painter
+file-name=test_picture.pic
+text=Download Pixel Painter Test
+file-data={name:"GitWeb Test",author:"GitWeb",resolution:2,pixels:[I;16711680,65280,255,16777215]}
+
+#footer
+text=&8Powered by GitWeb
