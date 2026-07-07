@@ -1,1 +1,18 @@
-mam rad pivecko vinecko
+#header
+text=&cMineTube
+#paragraph
+text=&7Videos from the blocky internet.
+#divider
+#banner
+text=&cTrending on MineTube
+#paragraph
+text=&fWelcome to MineTube, the best place to watch Minecraft videos on DeviceOS.\n\n&cTrending videos:\n&f1. Installing DeviceOS apps\n&f2. Creeper destroyed my laptop\n&f3. Top 5 GitWeb websites\n&f4. How to use MineBay\n&f5. Building a gaming setup in Minecraft
+#divider
+#navigation
+home=minetube.web
+trending=minetube.web/trending
+watch=minetube.web/watch
+about=minetube.web/about
+#footer
+title=&cMineTube
+subtitle=&8Powered by GitWeb

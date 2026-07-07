@@ -1,0 +1,17 @@
+#header
+text=&cMineTube Watch
+#paragraph
+text=&fNow Playing:\n&cInstalling DeviceOS apps
+#divider
+#banner
+text=&8[ VIDEO PLAYER ]\n&f¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦\n&70:42 / 3:21
+#paragraph
+text=&fDescription:\n&7Today we install apps on a Minecraft laptop using DeviceOS and GitWeb.\n\n&cLikes:&f 980\n&cComments:&f 42\n\n&7Comments:\n&fSteve: this helped me install GitWeb!\n&fAlex: MineTube is better than YouTube ngl\n&fVillager: hmmm.
+#divider
+#navigation
+home=minetube.web
+trending=minetube.web/trending
+about=minetube.web/about
+#footer
+title=&cMineTube
+subtitle=&8Videos from the blocky internet

@@ -1,0 +1,15 @@
+#header
+text=&cMineTube Trending
+#paragraph
+text=&7The hottest videos on the blocky internet.
+#divider
+#paragraph
+text=&c#1 &fInstalling DeviceOS apps\n&7Views: 12,420 | Likes: 980\n\n&c#2 &fCreeper destroyed my laptop\n&7Views: 8,901 | Likes: 742\n\n&c#3 &fTop 5 GitWeb websites\n&7Views: 5,322 | Likes: 401\n\n&c#4 &fHow to use MineBay\n&7Views: 3,112 | Likes: 210
+#divider
+#navigation
+home=minetube.web
+watch=minetube.web/watch
+about=minetube.web/about
+#footer
+title=&cMineTube Trending
+subtitle=&8Refresh later for more totally real videos
