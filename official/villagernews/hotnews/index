@@ -1,4 +1,14 @@
 #banner
-image=https://i.imgur.com/11djQvi.png
+image=https://raw.githubusercontent.com/kristitrnka/GitWeb-Sites/refs/heads/master/official/images/Fire-frame-desktop-background-4K.jpg
 text=&f&lVERRY HORRIBEL SPICY NEWS
 
+#paragraph
+text=7.7.26 Some random bald guy discovered SHOWERS IN MINECRAFT THATS CRAZY! REALLY! 
+padding=10
+image=https://raw.githubusercontent.com/kristitrnka/GitWeb-Sites/refs/heads/master/official/images/baldinshowerv2.png
+#header
+text=DID YOU KNOW YOU CAN BUY THIS SHOWER!!!????
+scale=1
+#header
+text=just 99.99 furnitureshop.craft
+scale=1
