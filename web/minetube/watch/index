@@ -8,21 +8,19 @@ text=&fNow Playing:\n&cInstalling DeviceOS apps
 #divider
 
 #paragraph
-text=&8+------------------------------------+\n&8¦ &0          &c? VIDEO PLAYER &0          &8¦\n&8¦                                    ¦\n&8¦ &f¦¦¦¦¦¦¦¦¦¦&7¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦ &8¦\n&8¦ &70:42 / 3:21                       &8¦\n&8+------------------------------------+
+text=&8==============================\n&c          VIDEO PLAYER\n&8==============================\n&f##########&7----------\n&70:42 / 3:21
 
 #divider
 
 #paragraph
-text=&fDescription:\n&7Today we install apps on a Minecraft laptop using DeviceOS, GitWeb and the App Store.\n\n&c? &f980 likes\n&7Comments: 42\n\n&fSteve: &7this helped me install GitWeb!\n&fAlex: &7MineTube is better than YouTube ngl\n&fVillager: &7hmmm.\n&fCreeper: &7ssssss...
+text=&fDescription:\n&7Today we install apps on a Minecraft laptop using DeviceOS and GitWeb.\n\n&cLikes:&f 980\n&7Comments: 42\n\n&fSteve: &7this helped me install GitWeb!\n&fAlex: &7MineTube is better than YouTube ngl\n&fVillager: &7hmmm.
 
 #divider
 
-#navigation
-home=minetube.web
-trending=minetube.web/trending
-about=minetube.web/about
+#paragraph
+text=&fBack: &cminetube.web
 
 #footer
 title=&cMineTube
 subtitle=&8Videos from the blocky internet
-'@ | Set-Content "web\minetube\watch\index" -NoNewline
+'@ | Set-Content "web\minetube\watch\index" -Encoding ASCII -NoNewline

@@ -12,12 +12,10 @@ text=&7MineTube does not stream real videos, but it makes the Minecraft laptop i
 
 #divider
 
-#navigation
-home=minetube.web
-trending=minetube.web/trending
-watch=minetube.web/watch
+#paragraph
+text=&fBack: &cminetube.web
 
 #footer
 title=&cMineTube
 subtitle=&8Made for DeviceOS Continued
-'@ | Set-Content "web\minetube\about\index" -NoNewline
+'@ | Set-Content "web\minetube\about\index" -Encoding ASCII -NoNewline

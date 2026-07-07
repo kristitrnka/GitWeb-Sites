@@ -3,15 +3,7 @@
 text=&c&lMineTube
 
 #banner
-text=&fVideos from the &ablocky internet&f.\n&7Watch fake Minecraft videos directly inside DeviceOS.
-
-#divider
-
-#navigation
-home=minetube.web
-trending=minetube.web/trending
-watch=minetube.web/watch
-about=minetube.web/about
+text=&fVideos from the blocky internet.
 
 #divider
 
@@ -19,14 +11,14 @@ about=minetube.web/about
 text=&cTrending Now
 
 #paragraph
-text=&c▶ &fInstalling DeviceOS apps\n&7Views: 12,420  &8|  &7Likes: 980\n\n&c▶ &fCreeper destroyed my laptop\n&7Views: 8,901  &8|  &7Likes: 742\n\n&c▶ &fTop 5 GitWeb websites\n&7Views: 5,322  &8|  &7Likes: 401\n\n&c▶ &fHow to use MineBay\n&7Views: 3,112  &8|  &7Likes: 210
+text=&c[PLAY] &fInstalling DeviceOS apps\n&7Views: 12420 | Likes: 980\n\n&c[PLAY] &fCreeper destroyed my laptop\n&7Views: 8901 | Likes: 742\n\n&c[PLAY] &fTop 5 GitWeb websites\n&7Views: 5322 | Likes: 401\n\n&c[PLAY] &fHow to use MineBay\n&7Views: 3112 | Likes: 210
 
 #divider
 
-#banner
-text=&eFeatured Channel:\n&fKristihack Tech\n&7DeviceOS, GitWeb, Minecraft laptops and cursed experiments.
+#paragraph
+text=&fPages:\n&cminetube.web/trending &7- Trending videos\n&cminetube.web/watch &7- Watch page\n&cminetube.web/about &7- About MineTube
 
 #footer
 title=&cMineTube
 subtitle=&8Powered by GitWeb
-'@ | Set-Content "web\minetube\index" -NoNewline
+'@ | Set-Content "web\minetube\index" -Encoding ASCII -NoNewline
