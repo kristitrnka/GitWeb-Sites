@@ -2,13 +2,8 @@
 #banner
 image=https://raw.githubusercontent.com/kristitrnka/GitWeb-Sites/refs/heads/master/official/images/banner_basic_yellow.png
 text=VILLAGER-NEWS
-
-#navigation
-item-link-1=villagernews.official/hotnews
-item-label-1=HOTTEST NEWS
-item-icon-1=
-
 #paragraph
 text=This is Fuguel, our best commentator, and documentator. He will allways give you the BEST villager NEWS of the Minecraft PLANNET!, yep he is that much awesome man, but he is very greedy when speaking of emeralds, so DONT DO THAT! Anyways he is the best worker because he all does it and we are just doing nothing and getting paid ... eeeeeh ... you did not hear that but yes he is the best.
 padding=10
 image=https://raw.githubusercontent.com/kristitrnka/GitWeb-Sites/refs/heads/master/official/images/Plains_Villager_Base_JE2-3057606012.png
+
