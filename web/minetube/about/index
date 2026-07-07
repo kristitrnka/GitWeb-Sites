@@ -1,15 +1,23 @@
+@'
 #header
-text=&cAbout MineTube
-#paragraph
-text=&7MineTube is a fake video website made for GitWeb and DeviceOS.\n\nIt does not stream real videos, but it gives your Minecraft laptop a real internet vibe.
+text=&c&lAbout MineTube
+
+#banner
+text=&fMineTube is a fake video website made for GitWeb and DeviceOS.
+
 #divider
+
 #paragraph
-text=&fFeatures:\n&c- &fTrending videos\n&c- &fFake watch pages\n&c- &fComments\n&c- &fMinecraft themed internet pages
+text=&7MineTube does not stream real videos, but it makes the Minecraft laptop internet feel alive.\n\n&fFeatures:\n&c- &fTrending pages\n&c- &fFake video player\n&c- &fComments\n&c- &fMinecraft styled web pages\n&c- &fWorks inside GitWeb
+
 #divider
+
 #navigation
 home=minetube.web
 trending=minetube.web/trending
 watch=minetube.web/watch
+
 #footer
 title=&cMineTube
 subtitle=&8Made for DeviceOS Continued
+'@ | Set-Content "web\minetube\about\index" -NoNewline

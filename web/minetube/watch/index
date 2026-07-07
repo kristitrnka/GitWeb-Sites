@@ -1,17 +1,28 @@
+@'
 #header
-text=&cMineTube Watch
-#paragraph
-text=&fNow Playing:\n&cInstalling DeviceOS apps
-#divider
+text=&c&lMineTube Watch
+
 #banner
-text=&8[ VIDEO PLAYER ]\n&f¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦\n&70:42 / 3:21
-#paragraph
-text=&fDescription:\n&7Today we install apps on a Minecraft laptop using DeviceOS and GitWeb.\n\n&cLikes:&f 980\n&cComments:&f 42\n\n&7Comments:\n&fSteve: this helped me install GitWeb!\n&fAlex: MineTube is better than YouTube ngl\n&fVillager: hmmm.
+text=&fNow Playing:\n&cInstalling DeviceOS apps
+
 #divider
+
+#paragraph
+text=&8+------------------------------------+\n&8¦ &0          &c? VIDEO PLAYER &0          &8¦\n&8¦                                    ¦\n&8¦ &f¦¦¦¦¦¦¦¦¦¦&7¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦ &8¦\n&8¦ &70:42 / 3:21                       &8¦\n&8+------------------------------------+
+
+#divider
+
+#paragraph
+text=&fDescription:\n&7Today we install apps on a Minecraft laptop using DeviceOS, GitWeb and the App Store.\n\n&c? &f980 likes\n&7Comments: 42\n\n&fSteve: &7this helped me install GitWeb!\n&fAlex: &7MineTube is better than YouTube ngl\n&fVillager: &7hmmm.\n&fCreeper: &7ssssss...
+
+#divider
+
 #navigation
 home=minetube.web
 trending=minetube.web/trending
 about=minetube.web/about
+
 #footer
 title=&cMineTube
 subtitle=&8Videos from the blocky internet
+'@ | Set-Content "web\minetube\watch\index" -NoNewline
