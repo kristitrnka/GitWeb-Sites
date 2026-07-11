@@ -1,0 +1,23 @@
+
+#banner
+image=https://raw.githubusercontent.com/kristitrnka/GitWeb-Sites/refs/heads/master/official/images/boatracersBanner.png
+text=Boat Racers
+
+
+#navigation
+item-link-1=boatracers.app
+item-label-1=Home
+item-icon-1=HOME
+item-link-2=boatracers.app/pages
+item-label-2=Pages
+item-icon-2=BOOK_OPEN
+item-link-3=boatracers.app/wiki
+item-label-3=Wiki
+item-icon-3=EARTH
+
+
+#download
+file-app=cdm:boat_racers
+file-source=home:BoatRacers Slot 1.brw
+file-name=Boat Racers Example World
+text=Download Example World
